@@ -1,0 +1,13 @@
+D:\ThickClients\AVT\AVT\bin\Release\AVT.exe.config
+D:\ThickClients\AVT\AVT\bin\Release\AVT.exe
+D:\ThickClients\AVT\AVT\bin\Release\AVT.pdb
+D:\ThickClients\AVT\AVT\obj\Release\AVT.csprojAssemblyReference.cache
+D:\ThickClients\AVT\AVT\obj\Release\AVT.AddUserForm.resources
+D:\ThickClients\AVT\AVT\obj\Release\AVT.AdminForm.resources
+D:\ThickClients\AVT\AVT\obj\Release\AVT.FormAuthentication.resources
+D:\ThickClients\AVT\AVT\obj\Release\AVT.Properties.Resources.resources
+D:\ThickClients\AVT\AVT\obj\Release\AVT.TimeTableForm.resources
+D:\ThickClients\AVT\AVT\obj\Release\AVT.csproj.GenerateResource.cache
+D:\ThickClients\AVT\AVT\obj\Release\AVT.csproj.CoreCompileInputs.cache
+D:\ThickClients\AVT\AVT\obj\Release\AVT.exe
+D:\ThickClients\AVT\AVT\obj\Release\AVT.pdb
