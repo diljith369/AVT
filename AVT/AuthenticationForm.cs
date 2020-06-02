@@ -111,6 +111,8 @@ namespace AVT
                             oAdminForm.ShowDialog();
                         } else
                         {
+                            this.Hide();
+
                             TimeTableForm oTimeTableForm = new TimeTableForm();
                             DataSet dsTimeTable = DBManager.GetInstance.GetTimeTable(strEmail, connActiveConnection);
                             oTimeTableForm.gvwTimeTable.DataSource = dsTimeTable.Tables[0];
